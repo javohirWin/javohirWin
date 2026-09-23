@@ -1,41 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF00AA&height=250&section=header&text=JAVOHIR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Creative%20Coder&descAlignY=58&descSize=22"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Javohir+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+Modern+Websites+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%94%A5;Welcome+to+my+GitHub!+%E2%9C%A8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,16,18&text=JAVOHIR&fontSize=85&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20CREATIVE%20CODER&descAlignY=62&descSize=20"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Javohir+%F0%9F%91%8B;I+Build+Modern+Websites+%F0%9F%92%BB;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Turning+Ideas+Into+Digital+Experiences+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
+<br><br>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=FF00AA"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
+
+ 
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B2FFF&label=FOLLOWERS"/>
+
+ 
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=FF00AA&label=STARS"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Javohir
-
 <div align="center">
 
-### 💻 Frontend Developer
+# 🧑‍💻 JAVOHIR.DEV
 
-### 🎨 UI Enthusiast
+### `Frontend Developer` • `UI Enthusiast` • `Creative Coder`
 
-### 🚀 Future Full-Stack Developer
+<br>
 
-### 🧠 Lifelong Learner
+> Building interfaces that are **clean, modern and interactive.**
 
 </div>
+
+---
+
+## ⚡ Who Am I?
 
 ```javascript
 const javohir = {
     name: "Javohir",
     role: "Frontend Developer",
-    
-    languages: [
+
+    code: [
         "HTML",
         "CSS",
         "JavaScript"
@@ -48,102 +56,99 @@ const javohir = {
     ],
 
     learning: [
-        "JavaScript",
         "React",
         "Node.js"
     ],
 
-    interests: [
-        "Web Development",
-        "UI Design",
-        "Technology"
-    ],
+    focus: "Modern Web Development",
 
-    goal: "Become a professional developer 🚀",
+    mindset: "Learn → Build → Improve",
 
-    motto: "Learn → Build → Improve"
+    goal: "Professional Developer 🚀"
 };
 ```
 
 ---
 
-# ⚡ What I Do
+# 🧠 MY SUPERPOWERS
 
 <div align="center">
 
-|      🎨 UI/UX     |      💻 Frontend     |    🔌 API    |   🚀 Projects  |
-| :---------------: | :------------------: | :----------: | :------------: |
-|     Modern UI     | Interactive websites |   REST API   |  Real projects |
-| Responsive design |      JavaScript      | Backend data | Creative ideas |
-|     Animations    |      Components      |     JSON     |   Experiments  |
+|     🎨 UI     |   💻 CODE  |  🔌 API  |     🚀 BUILD    |
+| :-----------: | :--------: | :------: | :-------------: |
+| Modern Design | Clean Code | REST API |  Real Projects  |
+|   Responsive  | JavaScript |   JSON   |  Creative Ideas |
+|   Animations  | Components |  Backend | Problem Solving |
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ TECH STACK
 
 <div align="center">
 
-## 💻 Frontend
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
-## 🔧 Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+### TOOLS
 
-## 🚀 Currently Exploring
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,figma"/>
+<br><br>
+
+### EXPLORING
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F5FF&line=7B2FFF&point=FF00AA&area=true&hide_border=true" width="96%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -153,270 +158,221 @@ const javohir = {
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-### 🛒 MARKET WEBSITE
+### 🛒 MARKET
 
-**Modern product marketplace**
+**Modern marketplace interface**
 
 `HTML` `CSS` `JavaScript` `REST API`
 
-🔍 Search
-💰 Price sorting
-⭐ Ratings
-❤️ Favorites
-📄 Pagination
-🔌 API integration
+🔍 Search • 💰 Sorting • ⭐ Rating • ❤️ Favorites • 📄 Pagination
 
 ---
 
-### 🎬 MOVIE PROJECT
+### 🎬 CINEMA
 
-**Interactive movie cards**
+**Interactive movie platform**
 
 `HTML` `CSS` `JavaScript` `API`
 
-🎬 Movie cards
-🔍 Search
-📖 Movie details
-🖼️ Dynamic images
-🔌 Backend API
+🎬 Movies • 🔍 Search • 📖 Details • 🖼️ Dynamic Content
 
 ---
 
-### 💻 MORE PROJECTS
+### 🌐 MORE COMING SOON
 
-🚀 More projects coming soon...
+`Ideas → Code → Projects`
 
 </div>
 
 ---
 
-# 🧠 My Skills
-
-```text
-HTML             ████████████████████ 100%
-CSS              ████████████████████ 100%
-JavaScript       ████████████████░░░░  80%
-Git              ██████████████████░░  90%
-GitHub           ██████████████████░░  90%
-UI Design        ███████████████░░░░░  75%
-React            ██████████░░░░░░░░░░  50%
-Node.js          ███████░░░░░░░░░░░░░  35%
-```
-
----
-
-# 🎯 2026 Roadmap
-
-<div align="center">
+# 🎯 2026 ROADMAP
 
 ```text
 HTML
-  ↓
+ ████████████████████ 100%
+
 CSS
-  ↓
+ ████████████████████ 100%
+
 JavaScript
-  ↓
-REST API
-  ↓
-Git & GitHub
-  ↓
+ ████████████████░░░░  80%
+
+Git / GitHub
+ ██████████████████░░  90%
+
 React
-  ↓
+ ██████████░░░░░░░░░░  50%
+
 Node.js
-  ↓
-Full-Stack Development
+ ███████░░░░░░░░░░░░░  35%
 ```
 
-</div>
-
-### ✅ Completed
+### 🟢 COMPLETED
 
 * [x] HTML
 * [x] CSS
+* [x] Responsive Design
 * [x] Git
 * [x] GitHub
-* [x] Responsive Design
-* [x] API basics
+* [x] API Basics
 
-### 🔥 In Progress
+### 🟡 CURRENTLY LEARNING
 
 * [ ] Advanced JavaScript
 * [ ] React
 * [ ] Node.js
 * [ ] Advanced UI/UX
 
-### 🚀 Future
+### 🔵 NEXT LEVEL
 
 * [ ] Full-Stack Development
-* [ ] Large-scale projects
+* [ ] Large-scale applications
 * [ ] Professional portfolio
 * [ ] Open Source
 
 ---
 
-# 💼 Developer Setup
+# 💻 MY DEVELOPER SETUP
 
 <div align="center">
-
-| 🖥️ Editor | ⚙️ Version Control | 🌐 Browser |
-| :--------: | :----------------: | :--------: |
-|   VS Code  |    Git + GitHub    |   Chrome   |
-
-| 🎨 Design |  🔌 API  |  💻 OS  |
-| :-------: | :------: | :-----: |
-|   Figma   | REST API | Windows |
-
-</div>
-
----
-
-# 📚 Learning Journey
-
-### 🟢 01 — HTML
-
-Understanding website structure and semantic markup.
-
-### 🟢 02 — CSS
-
-Layouts, Flexbox, Grid, animations and responsive design.
-
-### 🟢 03 — JavaScript
-
-DOM, events, functions, arrays, objects and API requests.
-
-### 🟡 04 — REST API
-
-Working with JSON data and backend services.
-
-### 🟡 05 — React
-
-Learning component-based frontend development.
-
-### 🔵 06 — Full Stack
-
-Future goal: building complete applications.
-
----
-
-# 💡 My Developer Philosophy
-
-<div align="center">
-
-### 🧠 Learn
-
-↓
-
-### 💻 Build
-
-↓
-
-### 🐛 Make Mistakes
-
-↓
-
-### 🔧 Fix Them
-
-↓
-
-### 🚀 Improve
-
-↓
-
-### 🏆 Repeat
-
-</div>
-
----
-
-# ⚡ Fun Facts
 
 ```text
-💻 I love coding
-🎨 I enjoy beautiful UI
-🚀 I like building projects
-🐛 Bugs are my daily challenge
-🧠 I learn something new every day
-🔥 I never stop improving
+╔══════════════════════════════════════╗
+║          JAVOHIR'S SETUP             ║
+╠══════════════════════════════════════╣
+║  💻 Editor       VS Code             ║
+║  🌐 Browser      Chrome              ║
+║  🔧 Git          GitHub              ║
+║  🎨 Design       Figma               ║
+║  🔌 API          REST / JSON         ║
+║  🚀 Focus        Frontend            ║
+╚══════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🔥 CURRENTLY BUILDING
+
+<div align="center">
+
+```text
+[████████████████░░░░] 80%
+
+Learning JavaScript
+        ↓
+Building Projects
+        ↓
+Learning React
+        ↓
+Becoming Professional 🚀
+```
+
+</div>
+
+---
+
+# 🧩 MY CODING PHILOSOPHY
+
+<div align="center">
+
+### 💡 IDEA
+
+↓
+
+### 🧠 LEARN
+
+↓
+
+### 💻 CODE
+
+↓
+
+### 🐛 DEBUG
+
+↓
+
+### 🔧 IMPROVE
+
+↓
+
+### 🚀 SHIP
+
+↓
+
+### 🔥 REPEAT
+
+</div>
+
+---
+
+# ⚡ FUN ZONE
+
+```text
+💻 Coding       ████████████████████
+🎨 Design       ████████████████░░░░
+🚀 Projects     ██████████████████░░
+🧠 Learning     ████████████████████
+🔥 Motivation   ████████████████████
+🐛 Bugs         ████████████████████
 ```
 
 ---
 
-# 🎮 Interests
-
-<div align="center">
-
-💻 Coding • 🎨 Design • 🚀 Technology • 🎮 Gaming • 🌐 Web Development
-
-</div>
-
----
-
-# 🤝 Open To
+# 🌎 OPEN TO
 
 <div align="center">
 
 🤝 Collaboration
-💻 Interesting Projects
-🚀 Learning Opportunities
-🌎 Open Source
-💡 Creative Ideas
+💡 Creative Projects
+🚀 Web Development
+🌐 Open Source
+🧠 Learning Together
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+ 
 
 <a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-# ⭐ If You Like My Work
-
 <div align="center">
 
-If you find my projects useful or interesting,
+# 💙 THANKS FOR VISITING
 
-### ⭐ Give them a star!
-
-It motivates me to keep building 🚀
-
-</div>
-
----
-
-# 💬 Developer Quote
-
-<div align="center">
-
-> **"Every expert was once a beginner."**
+### If you like my work, ⭐ my repositories!
 
 <br>
 
-### Keep Learning. Keep Building. Keep Growing. 🚀
+**CODE • CREATE • LEARN • BUILD**
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00AA,50:7B2FFF,100:00F5FF&height=180&section=footer&animation=fadeIn"/>
-
-### 💻 Code • 🎨 Create • 🚀 Build • 🔥 Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=16,18,20,22&section=footer"/>
 
 </div>
