@@ -24,7 +24,7 @@
 
 <div align="center">
 
-# 🧑‍💻 JAVOHIR.DEV
+# 🧑‍💻 JAVOHIR.DEVX
 
 ### `Frontend Developer` • `UI Enthusiast` • `Creative Coder`
 
