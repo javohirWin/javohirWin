@@ -1,378 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,16,18&text=JAVOHIR&fontSize=85&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20CREATIVE%20CODER&descAlignY=62&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Javohir&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dasturchi%20%7C%20Kreator%20%7C%20Doimiy%20o'rganuvchi&descAlignY=60&descSize=20" width="100%"/>
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Salom!+Men+Javohir+%F0%9F%91%8B;Kod+yozishni+yaxshi+ko'raman+%F0%9F%92%BB;Har+kuni+yangi+narsa+o'rganaman+%F0%9F%9A%80;Katta+orzular+sari+intilaman+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Javohir+%F0%9F%91%8B;I+Build+Modern+Websites+%F0%9F%92%BB;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Turning+Ideas+Into+Digital+Experiences+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
+<br/>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
 
- 
+![Profil ko'rishlar](https://komarev.com/ghpvc/?username=USERNAME&label=Profil+ko'rishlar&color=blueviolet&style=for-the-badge)
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B2FFF&label=FOLLOWERS"/>
 
- 
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=FF00AA&label=STARS"/>
 
-</div>
+![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=0a0a0a)
 
----
 
-<div align="center">
-
-# 🧑‍💻 JAVOHIR.DEVX
-
-### `Frontend Developer` • `UI Enthusiast` • `Creative Coder`
-
-<br>
-
-> Building interfaces that are **clean, modern and interactive.**
 
 </div>
 
 ---
 
-## ⚡ Who Am I?
+## 👨‍💻 Men haqimda
 
-```javascript
+```js
 const javohir = {
-    name: "Javohir",
-    role: "Frontend Developer",
-
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    learning: [
-        "React",
-        "Node.js"
-    ],
-
-    focus: "Modern Web Development",
-
-    mindset: "Learn → Build → Improve",
-
-    goal: "Professional Developer 🚀"
+  ism: "Javohir",
+  kasb: "Dasturchi",
+  hozirOrganyapman: ["Python", "JavaScript", "Git"],
+  maqsad: "Eng yaxshi dasturchilardan biri bo'lish",
+  shior: "Bugun yaxshiroq, ertaga undan ham yaxshi 🚀"
 };
 ```
 
+- 🔭 Hozir ustida ishlayapman: **loyiha nomi**
+- 🌱 O'rganayapman: **Python, JavaScript**
+- 💬 Menga yozing: **loyihalar va hamkorlik haqida**
+- ⚡ Qiziqarli fakt: **kod yozmasam, tinchim yo'q** 😄
+
 ---
 
-# 🧠 MY SUPERPOWERS
+## 🛠 Texnologiyalar
 
 <div align="center">
 
-|     🎨 UI     |   💻 CODE  |  🔌 API  |     🚀 BUILD    |
-| :-----------: | :--------: | :------: | :-------------: |
-| Modern Design | Clean Code | REST API |  Real Projects  |
-|   Responsive  | JavaScript |   JSON   |  Creative Ideas |
-|   Animations  | Components |  Backend | Problem Solving |
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
 
 </div>
 
 ---
 
-# 🛠️ TECH STACK
+## 📊 GitHub statistikam
 
 <div align="center">
 
-### FRONTEND
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<br/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
 
-### TOOLS
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-<br><br>
-
-### EXPLORING
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 🌐 Bog'lanish
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+[
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-</div>
+](https://t.me/USERNAME)
+[
 
-<br>
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-<div align="center">
+](https://instagram.com/USERNAME)
+[
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" width="70%"/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</div>
+](https://linkedin.com/in/USERNAME)
+[
 
----
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-# 🏆 GITHUB TROPHIES
+](mailto:email@example.com)
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+⭐ *Loyihalarim yoqsa, yulduzcha qo'yishni unutmang!* ⭐
 
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F5FF&line=7B2FFF&point=FF00AA&area=true&hide_border=true" width="96%"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-### 🛒 MARKET
-
-**Modern marketplace interface**
-
-`HTML` `CSS` `JavaScript` `REST API`
-
-🔍 Search • 💰 Sorting • ⭐ Rating • ❤️ Favorites • 📄 Pagination
-
----
-
-### 🎬 CINEMA
-
-**Interactive movie platform**
-
-`HTML` `CSS` `JavaScript` `API`
-
-🎬 Movies • 🔍 Search • 📖 Details • 🖼️ Dynamic Content
-
----
-
-### 🌐 MORE COMING SOON
-
-`Ideas → Code → Projects`
-
-</div>
-
----
-
-# 🎯 2026 ROADMAP
-
-```text
-HTML
- ████████████████████ 100%
-
-CSS
- ████████████████████ 100%
-
-JavaScript
- ████████████████░░░░  80%
-
-Git / GitHub
- ██████████████████░░  90%
-
-React
- ██████████░░░░░░░░░░  50%
-
-Node.js
- ███████░░░░░░░░░░░░░  35%
-```
-
-### 🟢 COMPLETED
-
-* [x] HTML
-* [x] CSS
-* [x] Responsive Design
-* [x] Git
-* [x] GitHub
-* [x] API Basics
-
-### 🟡 CURRENTLY LEARNING
-
-* [ ] Advanced JavaScript
-* [ ] React
-* [ ] Node.js
-* [ ] Advanced UI/UX
-
-### 🔵 NEXT LEVEL
-
-* [ ] Full-Stack Development
-* [ ] Large-scale applications
-* [ ] Professional portfolio
-* [ ] Open Source
-
----
-
-# 💻 MY DEVELOPER SETUP
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════╗
-║          JAVOHIR'S SETUP             ║
-╠══════════════════════════════════════╣
-║  💻 Editor       VS Code             ║
-║  🌐 Browser      Chrome              ║
-║  🔧 Git          GitHub              ║
-║  🎨 Design       Figma               ║
-║  🔌 API          REST / JSON         ║
-║  🚀 Focus        Frontend            ║
-╚══════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 🔥 CURRENTLY BUILDING
-
-<div align="center">
-
-```text
-[████████████████░░░░] 80%
-
-Learning JavaScript
-        ↓
-Building Projects
-        ↓
-Learning React
-        ↓
-Becoming Professional 🚀
-```
-
-</div>
-
----
-
-# 🧩 MY CODING PHILOSOPHY
-
-<div align="center">
-
-### 💡 IDEA
-
-↓
-
-### 🧠 LEARN
-
-↓
-
-### 💻 CODE
-
-↓
-
-### 🐛 DEBUG
-
-↓
-
-### 🔧 IMPROVE
-
-↓
-
-### 🚀 SHIP
-
-↓
-
-### 🔥 REPEAT
-
-</div>
-
----
-
-# ⚡ FUN ZONE
-
-```text
-💻 Coding       ████████████████████
-🎨 Design       ████████████████░░░░
-🚀 Projects     ██████████████████░░
-🧠 Learning     ████████████████████
-🔥 Motivation   ████████████████████
-🐛 Bugs         ████████████████████
-```
-
----
-
-# 🌎 OPEN TO
-
-<div align="center">
-
-🤝 Collaboration
-💡 Creative Projects
-🚀 Web Development
-🌐 Open Source
-🧠 Learning Together
-
-</div>
-
----
-
-# 📫 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
- 
-
-<a href="https://t.me/YOUR_TELEGRAM">
-
-<img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 💙 THANKS FOR VISITING
-
-### If you like my work, ⭐ my repositories!
-
-<br>
-
-**CODE • CREATE • LEARN • BUILD**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=16,18,20,22&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
