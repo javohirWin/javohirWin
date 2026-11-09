@@ -1,4 +1,3 @@
-
 <!-- PROFILE HEADER -->
 
 <div align="center">
