@@ -1,73 +1,91 @@
+
 <div align="center">
 
-# 👋 Salom, men Javohir!
+# JAVOHIR
+### `Frontend Developer | Future Full-Stack Engineer`
 
-### 🚀 Developer | 💻 Tech Lover | 🎯 Future Programmer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+modern+websites;I+love+JavaScript+%26+Technology;Building+the+future+with+code." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80" />
+<br/>
+
+<a href="https://github.com/JamshidCode">
+<img src="https://img.shields.io/badge/GitHub-JamshidCode-111111?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=JamshidCode&style=for-the-badge&color=00d9ff"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌍 I'm from Uzbekistan 🇺🇿
-- 💻 I'm interested in Programming & Technology
-- 🚀 Currently learning new skills
-- 🎯 My goal is to become a great developer
-- ⚡ Fun fact: I love exploring new technologies
+```javascript
+const javohir = {
+    name: "Javohir",
+    role: "Frontend Developer",
+    country: "Uzbekistan 🇺🇿",
+    learning: ["JavaScript", "React", "Node.js"],
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Creative Projects"
+    ],
+    currentlyBuilding: "VEXORA AI",
+    motto: "Code. Create. Innovate."
+};
+```
 
----
-
-## 🛠️ Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
+## ⚡ Technologies & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode&theme=dark" />
 
 </div>
 
----
-
-## 📈 Most Used Languages
+## 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### VEXORA AI
+
+**My personal Artificial Intelligence project.**
+
+<a href="https://vexora-ai-artificial-intelligence.netlify.app">
+<img src="https://img.shields.io/badge/Explore-VEXORA_AI-00D9FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-## 🐍 My Contribution
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JamshidCode&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshidCode&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=JamshidCode&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
----
-
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/JamshidCode/JamshidCode/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/JamshidCode">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -76,8 +94,8 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### "Great things are built one line of code at a time."
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blueviolet" />
+**© 2026 JAVOHIR | Built with passion.**
 
 </div>
